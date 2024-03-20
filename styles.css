@@ -1,13 +1,13 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #0d3a6a; /* Darker blue background color with more black */
+    background-color: #0d3a6a; 
 }
 
 .sticky-nav {
     position: sticky;
     top: 0;
-    background-color: #000000; /* Dark black background color */
+    background-color: #000000; 
     color: white;
     display: flex;
     justify-content: space-between;
@@ -49,7 +49,7 @@ body {
     border-radius: 50%;
     margin: 30px 15px 30px 0;
     margin-top: 50px;
-    background-color: #0d3a6ad8; /* Darker blue background color with more black */
+    background-color: #0d3a6ad8; 
     
 }
 
@@ -63,7 +63,7 @@ body {
 .name {
     font-size: 36px;
     margin-bottom: 5px;
-    color: white; /* White font color */
+    color: white;
 }
 
 .job-title {
@@ -121,7 +121,7 @@ body {
 
 .contact form {
     max-width: 400px;
-    margin: 0 auto; /* Center the form horizontally */
+    margin: 0 auto; 
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 10px;
@@ -169,14 +169,14 @@ body {
 .contact form input[type="text"]::placeholder,
 .contact form input[type="email"]::placeholder,
 .contact form textarea::placeholder {
-    color: rgba(0, 0, 0, 0.5); /* Placeholder color */
+    color: rgba(0, 0, 0, 0.5); 
 }
 
 .contact form label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color:black; /* Label color */
+    color:black;
 }
 
 .contact form input[type="text"] {
@@ -186,7 +186,7 @@ body {
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
 }
 
 .contact form input[type="email"] {
@@ -196,7 +196,7 @@ body {
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
 }
 
 .contact form input[type="submit"] {
@@ -209,7 +209,7 @@ body {
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
 }
 
 .contact form input[type="submit"]:hover {
@@ -225,19 +225,19 @@ body {
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
 .name {
     font-size: 36px;
     margin-bottom: 5px;
-    color: white; /* White font color */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text shadow with same color as the background */
+    color: white; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
 }
 
 .text {
-    color: #0ef; /* Previous color */
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Add text shadow with same color as the background */
+    color: #0ef; 
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 .p1,
 .p2 {
