@@ -35,7 +35,7 @@ Future Aspirations: My vision for the future is shared, outlining ambitious goal
 Call to Action: A clear call-to-action encourages visitors to engage further, whether it's exploring the portfolio, connecting on social media, or reaching out for collaboration opportunities.
 
 ## Content Strategy:
-The About Me section's content strategy is crafted to resonate with the target audience, leveraging storytelling techniques, relatable anecdotes, and authentic voice to foster emotional resonance and connection. It strikes a delicate balance between professionalism and personality, allowing "I" to shine through authentically.
+The About Me section's content strategy is crafted to resonate with the target audience, leveraging storytelling techniques, relatable anecdotes, and authentic voice to foster emotional resonance and connection. It strikes a delicate balance between professionalism and personality, allowing me to shine through authentically.
 
 ## Visual Design:
 The visual design of the About Me section is characterized by captivating imagery, subtle animations, and thoughtfully curated typography. A cohesive color palette and layout enhance readability and engagement, while strategic use of whitespace creates a sense of balance and harmony.
