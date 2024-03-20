@@ -1,0 +1,311 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0d3a6a; /* Darker blue background color with more black */
+}
+
+.sticky-nav {
+    position: sticky;
+    top: 0;
+    background-color: #000000; /* Dark black background color */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.menu-links {
+    display: flex;
+    gap: 20px;
+    
+}
+
+.menu-link {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+.menu-link:hover {
+    color:#0ef;
+}
+
+.content {
+    color: white;
+    padding: 20px;   
+}
+
+
+.home-container {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    border-radius: 50%;
+    margin: 30px 15px 30px 0;
+    margin-top: 50px;
+    background-color: #0d3a6ad8; /* Darker blue background color with more black */
+    
+}
+
+.profile-photo {
+    width: 250px;
+    height: 200px;
+    border-radius: 10%;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-size: 36px;
+    margin-bottom: 5px;
+    color: white; /* White font color */
+}
+
+.job-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: gray;
+}
+
+.buttons a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    border: 2px solid #0ef;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #0ef;
+    text-decoration: none;
+    margin: 30px 15px 30px 0;
+    
+    
+}
+
+.buttons a:hover  {
+    background: #0ef;
+    color: #081b29;
+    box-shadow: 0 0 20px #0ef;
+}
+
+.btn-box {
+    display: inline-block;
+    padding: 12px 28px;
+    background:#0ef;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #081b29;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+
+
+}
+
+.btn-box:hover  {
+    background: #0ef;
+    color: #081b29;
+    box-shadow: 0 0 20px #0ef;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact form {
+    max-width: 400px;
+    margin: 0 auto; /* Center the form horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.contact form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.contact form input[type="text"],
+.contact form input[type="email"],
+.contact form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.contact form textarea {
+    height: 150px;
+}
+
+.contact form input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #0ef;
+    border: none;
+    border-radius: 5px;
+    color: #081b29;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+.contact form input[type="submit"]:hover {
+    background-color: #081b29;
+    color: #0ef;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.contact form input[type="text"]::placeholder,
+.contact form input[type="email"]::placeholder,
+.contact form textarea::placeholder {
+    color: rgba(0, 0, 0, 0.5); /* Placeholder color */
+}
+
+.contact form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color:black; /* Label color */
+}
+
+.contact form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+}
+
+.contact form input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+}
+
+.contact form input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #0ef;
+    border: none;
+    border-radius: 5px;
+    color: #081b29;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+}
+
+.contact form input[type="submit"]:hover {
+    background-color: #081b29;
+    color: #0ef;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.contact form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add shadow effect */
+}
+
+.name {
+    font-size: 36px;
+    margin-bottom: 5px;
+    color: white; /* White font color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text shadow with same color as the background */
+}
+
+.text {
+    color: #0ef; /* Previous color */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Add text shadow with same color as the background */
+}
+.p1,
+.p2 {
+    background: #081b29;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.p1:hover,
+.p2:hover {
+    background: #081b29;
+    color: #0ef;
+    box-shadow: 0 0 20px #0ef;
+}
+.e1,.e2, .a1, .eca, .hobbs, .lan {
+    background: #081b29;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.e1:hover, .e2:hover, .a1:hover, .eca:hover, .hobbs:hover, .lan:hover {
+    background: #081b29;
+    color: #0ef;
+    box-shadow: 0 0 20px #0ef;
+}
+.experience-item1,
+.experience-item2 {
+    background: #081b29;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.experience-item1:hover,
+.experience-item2:hover {
+    background: #081b29;
+    color: #0ef;
+    box-shadow: 0 0 20px #0ef;
+
+}
+.tech1, .tech2, .c1 {
+    background: #081b29;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.tech1:hover,
+.tech2:hover, .c1:hover {
+    background: #081b29;
+    color: #0ef;
+    box-shadow: 0 0 20px #0ef;
+
+}
+
+.about-me{
+    background: #081b29;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.about-me:hover {
+    background: #081b29;
+    color: #0ef;
+    box-shadow: 0 0 20px #0ef;
+
+}
+
