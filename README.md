@@ -21,7 +21,7 @@ The content strategy of the Home section is designed to captivate, inform, and i
 The About Me section of the portfolio website delves deeper into the persona behind the professional façade, offering visitors a glimpse into the individuality, passions, and aspirations that drive career journey.
 
 ![about_me01](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/0de7b9ad-9284-495a-922c-2f1c4a635ff8)
-
+![about_me02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/62909453-77e3-43bc-8468-900c4cd45360)
 
 ## Purpose:
 The primary objective of the About Me section is to establish a personal connection with visitors and provide insights into  background, interests, and motivations. It aims to humanize the digital presence, fostering empathy and rapport with the audience.
@@ -31,7 +31,7 @@ Personal Narrative: An engaging narrative shares story, highlighting pivotal mom
 Passions and Interests: My passions and interests are showcased, offering a glimpse into their multifaceted personality beyond the professional realm. Whether it's a love for travel, art, or technology, these elements add depth and relatability.
 Professional Values: My core values and beliefs are articulated, underscoring their ethical compass and guiding principles. This transparency fosters trust and authenticity, key pillars of meaningful connections.
 Achievements and Recognition: Notable achievements and accolades are highlighted, validating expertise and credibility in their respective field. Testimonials or endorsements further corroborate  professional prowess.
-Future Aspirations: My vision for the future is shared, outlining ambitious goals, projects, or initiatives they aspire to undertake. This forward-looking approach signals dynamism and ambition, inspiring confidence in "I"'s potential.
+Future Aspirations: My vision for the future is shared, outlining ambitious goals, projects, or initiatives they aspire to undertake. This forward-looking approach signals dynamism and ambition, inspiring confidence in my potential.
 Call to Action: A clear call-to-action encourages visitors to engage further, whether it's exploring the portfolio, connecting on social media, or reaching out for collaboration opportunities.
 
 ## Content Strategy:
@@ -39,8 +39,6 @@ The About Me section's content strategy is crafted to resonate with the target a
 
 ## Visual Design:
 The visual design of the About Me section is characterized by captivating imagery, subtle animations, and thoughtfully curated typography. A cohesive color palette and layout enhance readability and engagement, while strategic use of whitespace creates a sense of balance and harmony.
-
-![about_me02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/be49e1d8-4e19-45cd-9e6e-72833491c6ba)
 
 ## User Experience:
 The About Me section prioritizes user experience, ensuring seamless navigation, accessibility, and responsiveness across devices. Intuitive design elements, such as scroll-triggered animations or interactive infographics, enhance engagement and retention, enriching the overall browsing experience.
@@ -68,13 +66,12 @@ The content strategy of the Work Experience section is centered around showcasin
 Welcome to the captivating realm of My project showcase—a testament to My innovation, creativity, and technical prowess! In this dynamic section, embark on a journey through My diverse portfolio of projects, each a masterpiece in its own right, crafted with precision, passion, and purpose.
 
 ![project01](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/dacfdca0-28fe-4313-9b7c-3504dcd063cd)
+![project02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/34d6f393-e0df-428b-8bd5-b0da38f58196)
+![project03](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/9ef4382f-1dcb-4ae6-9666-b1ee04eecc32)
 
 
 ## Purpose:
 The Project section serves as a showcase of My professional achievements and technical expertise, offering visitors a glimpse into My innovative endeavors, groundbreaking solutions, and impactful contributions to various domains and industries. It acts as a virtual gallery, where My projects come to life, leaving a lasting impression on viewers and highlighting My proficiency in diverse technologies, methodologies, and domains.
-
-![project02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/6cc291e6-665d-4d81-85b3-52e779f5bbea)
-
 
 ## Key Elements:
 Project Highlights: Explore My portfolio of projects, ranging from web applications and mobile apps to software solutions and multimedia creations. Each project is meticulously curated, showcasing My creativity, problem-solving skills, and technical acumen in delivering high-quality solutions that meet client needs and exceed expectations.
@@ -85,15 +82,13 @@ Case Studies and Success Stories: Delve deeper into select projects with compreh
 Client Testimonials: Gain perspective from satisfied clients and collaborators through testimonials that attest to My professionalism, expertise, and dedication to delivering exceptional results. These testimonials serve as endorsements of My capabilities and reinforce My reputation as a trusted partner and solution provider in the eyes of clients, stakeholders, and peers.
 
 ## Content Strategy:
-
-![project03](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/5408342f-4203-430b-be44-1a7f58ac1fc2)
-
 The content strategy of the Project section is designed to showcase My versatility, expertise, and innovation across a diverse range of projects and domains. Through compelling project descriptions, interactive demos, and detailed case studies, the section aims to demonstrate My technical proficiency, problem-solving skills, and ability to deliver impactful solutions that address real-world challenges and drive business success
 
 # Skill & Certification Section Overview:
 Welcome to My realm of expertise and accreditation—a testament to My commitment to continuous learning, professional development, and mastery of cutting-edge technologies and industry best practices. In this dynamic section, explore My diverse skill set, certifications, and credentials, each a badge of honor earned through dedication, perseverance, and a relentless pursuit of excellence.
 
 ![skills01](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/014c7f11-d592-49ed-982c-8a1f123b426d)
+![skills02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/63450432-ac40-451e-9bc8-26f74bae609a)
 
 ## Purpose:
 The Skill and Certification section serves as a showcase of My proficiency, expertise, and credentials in various domains, technologies, and methodologies. It provides visitors with insights into My technical capabilities, professional qualifications, and commitment to staying abreast of the latest trends, tools, and techniques in the ever-evolving landscape of technology and innovation.
@@ -106,8 +101,6 @@ Specializations and Focus Areas: Learn about My areas of specialization and focu
 Industry Recognition: Explore My accolades, awards, and recognitions from industry peers, organizations, and communities. These accolades serve as testament to My contributions, achievements, and impact within the technology ecosystem, reinforcing My reputation as a trusted thought leader, innovator, and influencer in the field.
 Continuous Learning: Discover My commitment to lifelong learning and professional growth through participation in industry events, conferences, meetups, and online communities. These learning opportunities enable Me to network with peers, exchange knowledge and ideas, and stay informed about emerging trends, technologies, and best practices, empowering Me to continuously evolve and adapt to the ever-changing demands of the digital age.
 
-![skills02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/adb6736c-f124-4900-8529-433fcf87db40)
-
 ## Content Strategy:
 The content strategy of the Skill and Certification section is designed to showcase My expertise, qualifications, and commitment to professional development in a concise, organized, and visually appealing manner. Through a combination of skill matrices, certification badges, testimonials, and case studies, the section aims to highlight My technical proficiency, industry recognition, and dedication to delivering value-added solutions that drive business success and innovation.
 
@@ -115,6 +108,7 @@ The content strategy of the Skill and Certification section is designed to showc
 Welcome to My digital doorstep—the gateway to seamless communication, collaboration, and connection. In this section, you'll find various ways to reach out to Me, whether you're interested in discussing potential projects, exploring partnership opportunities, or simply saying hello. Let's embark on a journey of meaningful interaction and engagement!
 
 ![contact me01](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/e5420d8d-8db9-423a-b969-34763ae2613b)
+![contact me02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/10ede5ac-daf0-488c-8763-6eb5fa1f2edb)
 
 ## Purpose:
 The Contact Me section serves as a direct channel for visitors to get in touch with Me, enabling effortless communication and engagement. It provides multiple avenues for reaching out, including email, social media, and a contact form, ensuring accessibility and convenience for diverse audiences with varying preferences and communication preferences.
@@ -126,9 +120,6 @@ Engagement Opportunities: Learn about the diverse engagement opportunities avail
 Response Time: Understand My commitment to responsive communication and timely follow-up on inquiries received through the Contact Me section. With a focus on customer service excellence and professionalism, I strive to respond to all messages promptly, addressing queries, providing assistance, and engaging in constructive dialogue to meet the needs and expectations of visitors.
 Privacy and Confidentiality: Rest assured that your privacy and confidentiality are paramount when reaching out to Me through the Contact Me section. Your personal information and messages are handled with the utmost care, integrity, and discretion, in accordance with industry best practices and data protection regulations, ensuring a safe and secure communication environment for all parties involved.
 Feedback and Suggestions: Share your feedback, suggestions, and testimonials through the Contact Me section, helping Me continually improve My services, enhance user experience, and better serve the needs of My audience. Whether you have insights to share, ideas to propose, or testimonials to offer, your input is valued and appreciated, contributing to ongoing growth and success.
-
-![contact me02](https://github.com/Shivam143bit/Portfolio-Website/assets/85752605/0a2c03a2-7eb5-4abb-b93c-ef27a5fef4ea)
-
 
 ## Content Strategy:
 The content strategy of the Contact Me section is designed to facilitate seamless communication, foster engagement, and build trust with visitors. Through clear and concise contact information, intuitive user interfaces, and transparent communication practices, the section aims to streamline the interaction process and encourage meaningful exchanges that lead to positive outcomes and lasting relationships.
